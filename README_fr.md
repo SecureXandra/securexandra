@@ -1,4 +1,4 @@
-<img src="images/gif/header_en.gif"></img>
+<img src="images/gif/header_fr.gif"></img>
 <h4 align="center"><samp> Salut 👋🏾 bienvenue sur mon GitHub ! J'aide à trouver des solutions pratiques et opérationnelles pour sécuriser ce qui peut l'être. Je me concentre sur le fait de donner des conseils efficaces, et régler un problème à la fois.</samp></h4>
 
 <p align="center">
@@ -15,6 +15,6 @@
 </table>
 
 <p align="center"><samp>
-⬇️ Check out my repos ⬇️  
+⬇️ Consultez mes repos ⬇️  
   </samp>
 </p>
