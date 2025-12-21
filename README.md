@@ -9,12 +9,12 @@
 <a href= "https://www.linkedin.com/in/delepine/"><img src="https://img.icons8.com/material-outlined/32/000000/linkedin.png"/></a>
 </p>
 
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
-</table>
-
 <p align="center"><samp>
 ⬇️ Check out my repos ⬇️  
   </samp>
 </p>
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+</table>
