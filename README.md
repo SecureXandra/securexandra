@@ -1,4 +1,7 @@
 <img src="images/gif/header_en.gif"></img>
+
+![](https://komarev.com/ghpvc/?username=securexandra&color=grey&label=test-generation)
+
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I help find practical solutions to secure things. I focused on giving efficient advice, one problem at a time. </samp></h4>
 
 <p align="center">
