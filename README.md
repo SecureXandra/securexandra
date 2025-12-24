@@ -18,3 +18,5 @@
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
+
+![](https://komarev.com/ghpvc/?username=securexandra&color=grey&label=test-generation)
