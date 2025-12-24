@@ -1,6 +1,6 @@
 <img src="images/gif/header_en.gif"></img>
 
-<div style="text-align: right;">
+<div style="text-align:right;">
   <img src="https://komarev.com/ghpvc/?username=securexandra&color=grey&label=test-generation" alt="Badge">
 </div>
 
