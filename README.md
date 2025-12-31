@@ -10,7 +10,12 @@
 <!-- my-badges end -->
 </p>
 
-![](https://komarev.com/ghpvc/?username=securexandra&color=grey&label=test)
+![](https://img.shields.io/github/actions/workflow/status/securexandra/securexandra/my-badges.yml?style=for-the-badge
+)
+![](https://img.shields.io/github/last-commit/securexandra/securexandra?style=for-the-badge)
+![](https://img.shields.io/github/license/secureXandra/securexandra?style=for-the-badge)
+![](https://img.shields.io/github/created-at/securexandra/securexandra?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=securexandra&color=grey&label=test&style=for-the-badge)
 
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I help find practical solutions to secure things. I focused on giving efficient advice, one problem at a time. </samp></h4>
 
