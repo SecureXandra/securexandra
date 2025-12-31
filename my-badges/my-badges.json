@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/SecureXandra/securexandra/commit/ad7872b6c2f425edcd735f7f61a2c3c666ea36ed\"><strong>a</strong>d7872b6c2f425edcd735f7f61a2c3c666ea36ed</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 21 times)\n2. readme (used 21 times)\n3. new (used 2 times)\n4. create (used once)\n5. my-badges.yml (used once)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/44314949be1cf3d5e790709e4b74ef737c541e92\">4431494</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/9e0055cc6cd9fcab100d8719817554421c64291c\">9e0055c</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/2f1e2f36ec0c0319ed6656d973dba511606bc99a\">2f1e2f3</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/dc28f8c3175cfc53d988270e78ba31ca80f6d4b9\">dc28f8c</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/6ce755bd07859a0aa0f31824e703415157fa29a5\">6ce755b</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/ad7872b6c2f425edcd735f7f61a2c3c666ea36ed\">ad7872b</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/480b2e061ef62a7363743adb6a5e0dbc00f16bce\">480b2e0</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/04f2819fb85b58722d73157d8a455d0c0c4a94f3\">04f2819</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/44314949be1cf3d5e790709e4b74ef737c541e92\">4431494</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/9e0055cc6cd9fcab100d8719817554421c64291c\">9e0055c</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/2f1e2f36ec0c0319ed6656d973dba511606bc99a\">2f1e2f3</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/dc28f8c3175cfc53d988270e78ba31ca80f6d4b9\">dc28f8c</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
