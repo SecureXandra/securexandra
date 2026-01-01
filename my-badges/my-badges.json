@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 21 times)\n2. readme (used 21 times)\n3. new (used 2 times)\n4. create (used once)\n5. my-badges.yml (used once)",
+    "body": "My favorite commit message words are:\n\n1. update (used 25 times)\n2. readme (used 21 times)\n3. readme.md (used 5 times)\n4. new (used 2 times)\n5. create (used once)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/480b2e061ef62a7363743adb6a5e0dbc00f16bce\">480b2e0</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/04f2819fb85b58722d73157d8a455d0c0c4a94f3\">04f2819</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/44314949be1cf3d5e790709e4b74ef737c541e92\">4431494</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/9e0055cc6cd9fcab100d8719817554421c64291c\">9e0055c</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/2f1e2f36ec0c0319ed6656d973dba511606bc99a\">2f1e2f3</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/dc28f8c3175cfc53d988270e78ba31ca80f6d4b9\">dc28f8c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/698a96149b83d1475befec641fdc033ec085637f\">698a961</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/291d256448a7cebd58acdeb560e00da6736eef46\">291d256</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/f7b05cb47f6ef74354f54e5fbbe9e5c465c4baf4\">f7b05cb</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/62605ef5319ea2f2a05549920b1a92620edc5069\">62605ef</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/480b2e061ef62a7363743adb6a5e0dbc00f16bce\">480b2e0</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/04f2819fb85b58722d73157d8a455d0c0c4a94f3\">04f2819</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
