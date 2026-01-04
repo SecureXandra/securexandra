@@ -28,7 +28,7 @@
 </p>
 
 <p align="center"><samp>
-⬇️ Check out my repos ⬇️ </samp>
+⬆️ Contact me via LinkedIn ⬆️ </samp>
 </p>
 
 <table align="right">

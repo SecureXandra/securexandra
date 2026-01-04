@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"><samp>
-⬇️ Consultez mes repos ⬇️  
+⬆️ Contactez moi via LinkedIn ⬆️  
   </samp>
 </p>
 
