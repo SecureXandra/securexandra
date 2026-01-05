@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 25 times)\n2. readme (used 21 times)\n3. readme.md (used 5 times)\n4. new (used 2 times)\n5. create (used once)",
+    "body": "My favorite commit message words are:\n\n1. update (used 25 times)\n2. readme (used 21 times)\n3. readme.md (used 5 times)\n4. new (used 2 times)\n5. shift (used once)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -19,13 +19,6 @@
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   },
   {
     "id": "winter-solstice-commits",
@@ -40,5 +33,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/698a96149b83d1475befec641fdc033ec085637f\">698a961</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/291d256448a7cebd58acdeb560e00da6736eef46\">291d256</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/f7b05cb47f6ef74354f54e5fbbe9e5c465c4baf4\">f7b05cb</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/62605ef5319ea2f2a05549920b1a92620edc5069\">62605ef</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/480b2e061ef62a7363743adb6a5e0dbc00f16bce\">480b2e0</a>\n- <a href=\"https://github.com/SecureXandra/securexandra/commit/04f2819fb85b58722d73157d8a455d0c0c4a94f3\">04f2819</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]

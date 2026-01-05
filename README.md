@@ -4,9 +4,9 @@
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
 <a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
-<a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
+<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <!-- my-badges end -->
 </p>
 
