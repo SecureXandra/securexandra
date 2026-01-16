@@ -15,7 +15,7 @@
 ![](https://img.shields.io/github/last-commit/securexandra/securexandra?style=for-the-badge)
 ![](https://img.shields.io/github/license/secureXandra/securexandra?style=for-the-badge)
 ![](https://img.shields.io/github/created-at/securexandra/securexandra?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=securexandra&color=grey&label=ProfilVisits&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=securexandra&color=grey&label=ProfilVisits&&abbreviated=true&style=for-the-badge)
 
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I help find practical solutions to secure things. I focused on giving efficient advice, one problem at a time. </samp></h4>
 
